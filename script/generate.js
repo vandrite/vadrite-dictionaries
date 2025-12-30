@@ -221,7 +221,7 @@ function process(file, pkg, info) {
       '[' +
       license +
       '](https://github.com/vandrite/' +
-      'vadrite-dictionaries/blob/main/dictionaries/' +
+      'vandrite-dictionaries/blob/main/dictionaries/' +
       info.code +
       '/license)'
   }

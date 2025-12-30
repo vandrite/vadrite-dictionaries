@@ -1,6 +1,6 @@
 <!-- lint disable no-html -->
 
-# vadrite-dictionaries
+# vandrite-dictionaries
 
 > 🍴 **Fork of [wooorm/dictionaries](https://github.com/wooorm/dictionaries)** with additional languages and cross-platform support.
 
