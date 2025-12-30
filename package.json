@@ -1,7 +1,6 @@
 {
-  "name": "dictionaries",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@vandrite/dictionaries",
+  "version": "1.0.0",
   "description": "Hunspell dictionaries in UTF-8 (Fork of wooorm/dictionaries)",
   "license": "MIT",
   "keywords": [
