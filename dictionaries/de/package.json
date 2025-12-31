@@ -11,8 +11,8 @@
     "myspell",
     "spelling"
   ],
-  "repository": "https://github.com/wooorm/dictionaries/tree/main/dictionaries/de",
-  "bugs": "https://github.com/wooorm/dictionaries/issues",
+  "repository": "https://github.com/vandrite/vandrite-dictionaries/tree/main/dictionaries/de",
+  "bugs": "https://github.com/vandrite/vandrite-dictionaries/issues",
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/wooorm"
